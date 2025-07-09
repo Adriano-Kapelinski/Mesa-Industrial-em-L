@@ -9,7 +9,7 @@ Este repositório apresenta um projeto completo de uma mesa em formato L com est
 
 O modelo 3D da mesa foi criado no **Blender** e está disponível para download abaixo. Você pode usá-lo para visualizar a montagem, fazer alterações ou gerar novos renders.
 
-🔗 [📥 Download do Arquivo `Mesa.blend`](Mesa/Arquivo%20blender/Mesa.blend)
+Clique [aqui](Arquivo%20blender) para baixar o arquivo .blend.
 
 ## Materiais Necessários
 ### Estrutura
